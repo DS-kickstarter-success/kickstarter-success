@@ -8,6 +8,7 @@ pandas = "*"
 tensorflow = "*"
 ipykernel = "*"
 sklearn = "*"
+seaborn = "*"
 
 [dev-packages]
 
